@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Rising' To The Top",
+  "base_artist": "Keni Burke",
+  "createdAt": "2026-03-03T09:31:01.544317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rising to the Top",
+      "artist": "Lettuce",
+      "has_synced": false,
+      "path": "select/01_Rising_to_the_Top_Lettuce.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rising to the Top",
+      "artist": "Sean Price",
+      "has_synced": true,
+      "path": "select/02_Rising_to_the_Top_Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rising To The Top",
+      "artist": "Keni Burke",
+      "has_synced": false,
+      "path": "select/03_Rising_To_The_Top_Keni_Burke.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rising To The Top (Bonus)",
+      "artist": "Sean Price",
+      "has_synced": true,
+      "path": "select/04_Rising_To_The_Top_(Bonus)_Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rising to the Top",
+      "artist": "KRS-One",
+      "has_synced": true,
+      "path": "select/05_Rising_to_the_Top_KRS-One.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rising to the Top",
+      "artist": "KRS‐One",
+      "has_synced": true,
+      "path": "select/06_Rising_to_the_Top_KRS‐One.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rising to the Top ft. Agallah",
+      "artist": "Sean Price",
+      "has_synced": true,
+      "path": "select/07_Rising_to_the_Top_ft._Agallah_Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rising to the Top",
+      "artist": "KRS‐One & Marley Marl",
+      "has_synced": true,
+      "path": "select/08_Rising_to_the_Top_KRS‐One_&_Marley_Marl.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rising To The Top",
+      "artist": "Krs One & Marley Marl",
+      "has_synced": true,
+      "path": "select/09_Rising_To_The_Top_Krs_One_&_Marley_Marl.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rising To The Top",
+      "artist": "Pieces Of A Dream",
+      "has_synced": true,
+      "path": "select/10_Rising_To_The_Top_Pieces_Of_A_Dream.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rising To The Top Ft. Agallah & Bazaar Royale",
+      "artist": "Sean Price",
+      "has_synced": true,
+      "path": "select/11_Rising_To_The_Top_Ft._Agallah_&_Bazaar_Royale_Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rising to the Top",
+      "artist": "Agallah feat. Sean Price & Bazaar Royale",
+      "has_synced": false,
+      "path": "select/12_Rising_to_the_Top_Agallah_feat._Sean_Price_&_Bazaar_Royale.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rising to the Top (Grand Theft Auto Theme Song)",
+      "artist": "Sean Price",
+      "has_synced": false,
+      "path": "select/13_Rising_to_the_Top_(Grand_Theft_Auto_Theme_Song)_Sean_Price.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rising to the Top",
+      "artist": "Keni Burke",
+      "has_synced": false,
+      "path": "select/pl_01_Rising_to_the_Top_Keni_Burke.txt"
+    }
+  ]
+}
